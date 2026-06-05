@@ -1,0 +1,34 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Conda
+.env
+.python-version
+
+# Model Files
+*.pkl
+*.joblib
+*.h5
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Generated Outputs
+submission.csv

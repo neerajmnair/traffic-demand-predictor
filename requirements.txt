@@ -1,0 +1,7 @@
+numpy==2.4.4
+pandas
+matplotlib==3.10.9
+seaborn
+scikit-learn
+jupyterlab
+ipykernel
